@@ -2,9 +2,11 @@
 
 a simple to-do list app using TypeScript for exercise
 
-## install (Linux)
+## install
 
-> git clone https://github.com/NorouziMilad/TS_TL.git
+```bash
+git clone https://github.com/NorouziMilad/TS_TL.git
+```
 
 ## start
 
