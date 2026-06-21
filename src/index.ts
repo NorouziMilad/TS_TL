@@ -1,7 +1,6 @@
 import * as inquirer from "inquirer";
 
 import { Main_Commends } from "./MainCommends";
-import * as process from "node:process";
 
 enum MainCommends {
 	Managers = "Managers",
